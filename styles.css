@@ -109,4 +109,14 @@ footer{
     header>img{
         max-width: 15rem;
     }
+    header{
+        display: flex;
+        justify-content: space-evenly;
+    }
+    .pictures>img{
+        max-height: 26rem;
+    }
+    .work, .school{
+        max-width: 45%;
+    }
 }
